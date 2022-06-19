@@ -20,3 +20,7 @@ Usage of ./BF_Interpreter:
     	Enter input character if required
 
 `./BF_Interpreter -filename input.bf -input m`
+
+To run the unit test
+
+`go test -v`
