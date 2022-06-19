@@ -10,8 +10,9 @@ The goal from this was to learn a bit about how interpreters and compilers work.
  try this `go get github.com/gravip214/brainfuck-go`
  
 Run below command to run the program
+`go build`
 
-`./BF_Interpreter -h`
+`./brainfuck-go -h`
 
 Usage of ./BF_Interpreter:
   -filename string
@@ -19,7 +20,7 @@ Usage of ./BF_Interpreter:
   -input string
     	Enter input character if required
 
-`./BF_Interpreter -filename input.bf -input m`
+`./brainfuck-go -filename input.bf -input m`
 
 To run the unit test
 
