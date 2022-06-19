@@ -10,6 +10,7 @@ The goal from this was to learn a bit about how interpreters and compilers work.
  try this `go get github.com/gravip214/brainfuck-go`
  
 Run below command to run the program
+
 `go build`
 
 `./brainfuck-go -h`
