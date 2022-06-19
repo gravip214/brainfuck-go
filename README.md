@@ -9,7 +9,7 @@ The goal from this was to learn a bit about how interpreters and compilers work.
 
  try this `go get github.com/gravip214/brainfuck-go`
 
-**./BF_Interpreter -h**
+`./BF_Interpreter -h`
 Usage of ./BF_Interpreter:
   -filename string
     	Enter input file name to interpret (default "input.bf")
@@ -18,4 +18,4 @@ Usage of ./BF_Interpreter:
       
 To run the script
 
-**./BF_Interpreter -filename input.bf -input m**
+`./BF_Interpreter -filename input.bf -input m`
